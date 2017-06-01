@@ -415,6 +415,10 @@ h6,
 #msg-box7-1 .lead p {
   color: #fff;
 }
+#msg-box3-b .mbr-section-title,
+#msg-box3-b p {
+  color: #000;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
