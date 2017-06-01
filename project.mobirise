@@ -298,7 +298,7 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
