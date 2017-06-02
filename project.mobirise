@@ -141,10 +141,10 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
+            "paddingBottom": "4",
+            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/moto-2000x1000.jpg",
             "bgColor": "#bccfd8",
             "bgColorRadio": false,
             "bgVideo": {
